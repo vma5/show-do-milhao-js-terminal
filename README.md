@@ -39,6 +39,6 @@ npm start
 - Exercício proposto na disciplina de JavaScript.
 - Biblioteca: [readline-sync](https://www.npmjs.com/package/readline-sync)
 
-## 🪪 Licença
+## Licença
 
 MIT License
